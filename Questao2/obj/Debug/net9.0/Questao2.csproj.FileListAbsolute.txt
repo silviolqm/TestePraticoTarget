@@ -1,0 +1,15 @@
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\bin\Debug\net9.0\Questao2.exe
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\bin\Debug\net9.0\Questao2.deps.json
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\bin\Debug\net9.0\Questao2.runtimeconfig.json
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\bin\Debug\net9.0\Questao2.dll
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\bin\Debug\net9.0\Questao2.pdb
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.AssemblyInfoInputs.cache
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.AssemblyInfo.cs
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.csproj.CoreCompileInputs.cache
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.sourcelink.json
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.dll
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\refint\Questao2.dll
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.pdb
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\Questao2.genruntimeconfig.cache
+E:\ADS\01 Teste\TestePraticoTarget\Questao2\obj\Debug\net9.0\ref\Questao2.dll
